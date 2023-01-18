@@ -1,2 +1,2 @@
 # react-udemy-course
-Complete react Udemy course
+Complete react.js Udemy course
